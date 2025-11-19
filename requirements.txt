@@ -1,0 +1,6 @@
+textfastapi
+uvicorn
+requests
+jinja2
+python-dotenv
+pyyaml
